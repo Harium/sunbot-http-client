@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.harium.suneidesis.sunbot</groupId>
     <artifactId>http-client</artifactId>
-    <version>0.3.0</version>
+    <version>0.4.0</version>
     <packaging>jar</packaging>
     <name>Sunbot HTTP Client</name>
     <description>A client that sends messages to Suneidesis HTTP Server (compatible with Android and Java)</description>
