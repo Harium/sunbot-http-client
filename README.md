@@ -1,7 +1,7 @@
 # sunbot-http-client
-Client that send messages to [Sunbot HTTP Server](https://github.com/Harium/sunbot-http) (compatible with Android and Java)
+Client that send messages to [Sunbot HTTP Server](https://github.com/Harium/sunbot-http-client) (compatible with Android and Java)
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.harium.suneidesis/sunbot-http/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.harium.suneidesis/sunbot-http/)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.harium.suneidesis.sunbot/http-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.harium.suneidesis.sunbot/http-client/)
 
 ## How to use it
 
